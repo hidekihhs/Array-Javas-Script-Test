@@ -1,7 +1,7 @@
 # Array-Javas-Script-Test
 # Henrique Hideki Sampaio
 
-# Java Script
+
 ## 1 - Non-Constructible Change
 
   Given an array of positive integers representing the values of coins in your possession, write a function that returns the minimum amount of change (the  minimum sum of money) that you  CANNOT create. The given coins can have
